@@ -13,6 +13,9 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
 https://web.digitalinnovation.one/track/inter-java-developer?tab=path
 
 
+Adicionei uma linha remotamente, para testar o conceito de merge em minha maquina e resolver
+o conflito.
+
 ## Obrigado a todos professores !!!
 
 
