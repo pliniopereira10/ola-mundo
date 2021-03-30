@@ -13,6 +13,6 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
 https://web.digitalinnovation.one/track/inter-java-developer?tab=path
 
 
-## Obrigado a todos professores !!!
+## Obrigado a todos professores !!! :wave::wave::wave:
 
 
